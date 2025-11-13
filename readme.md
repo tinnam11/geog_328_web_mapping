@@ -18,7 +18,7 @@ This project contains two interactive choropleth web maps built using Mapbox GL 
 - Hover interaction shows state name and density value
 - Centered on continental United States
 
-**Live Map:** [https://[your_username].github.io/[your_repo]/pop_density.html]
+**Live Map:** [https://tinnam11.github.io/geog_328_web_mapping/pop_density.html]
 
 ### 2. Washington COVID-19 Case Rates Map
 **File:** `index.html`  
@@ -31,7 +31,7 @@ This project contains two interactive choropleth web maps built using Mapbox GL 
 - Hover interaction displays county name and case rate
 - Focused on Washington State geography
 
-**Live Map:** [https://[your_username].github.io/[your_repo]/index.html]
+**Live Map:** [https://tinnam11.github.io/geog_328_web_mapping/index.html]
 
 ## Data Sources
 
